@@ -1,0 +1,198 @@
+#white { 
+	position: relative;
+    background-color: white;
+    opacity: 1;
+    width: 1440px;
+    height: 900px;
+}
+#background_2 { 
+	opacity:1;
+	width: 20040px;
+    height: 5900px;
+    position: absolute;
+    left: -10px;
+    top: -10px;
+    background-image: url(images/background_2.png);
+    background-repeat: no-repeat;
+}
+#circle1 { 
+	border-radius:500px;
+	background-color:rgba(234.81250405311584, 182.405047416687, 97.83854842185974, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:35.30438232421875px;
+}
+#circle2 { 
+	border-radius:500px;
+	background-color:rgba(68.00000354647636, 13.000000175088644, 23.000000528991222, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:320.30438232421875px;
+}
+#circle3 { 
+	border-radius:500px;
+	background-color:rgba(211.43749594688416, 63.796798288822174, 55.50234496593475, 0.800000011920929);
+	opacity:1;
+	width:258px;
+	height:258px;
+	position:absolute;
+	left:27px;
+	top:605.3043823242188px;
+	
+}
+#dried_yellow_babys_breath { 
+	opacity:1;
+	width: 420.977051px;
+    height: 415px;
+    position: absolute;
+    left: -157.998291px;
+    top: 251.930786px;
+    background-image: url(images/1.png);
+    background-repeat: no-repeat;
+}
+#dried_purple_limonium { 
+	opacity:1;
+	width: 526.5701293945312px;
+    height: 559px;
+    position: absolute;
+    left: -296px;
+    top: 455.062683px;
+    background-image: url(images/2.png);
+    background-repeat: no-repeat;
+}
+#dried_dark_magenta_phalaris { 
+	opacity:1;
+	width: 420.977051px;
+    height: 415px;
+    position: absolute;
+    left: 31.248779px;
+    top: 23.000031px;
+    background-image: url(images/3.png);
+    background-repeat: no-repeat;
+}
+#box1 { 
+	background-color:rgba(207.00000286102295, 77.00000301003456, 53.00000064074993, 0.800000011920929);
+	opacity:1;
+	width:729px;
+	height:120px;
+	position:absolute;
+	left:311px;
+	top:381px;
+}
+#name { 
+	color:rgba(92.00000211596489, 39.00000147521496, 39.00000147521496, 1);
+	opacity:1;
+	width:678px;
+	height:75px;
+	position:absolute;
+	left:336px;
+	top:404px;
+	font-family:Federo;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+#box2 { 
+	background-color:rgba(202.00000315904617, 89.00000229477882, 61.00000016391277, 0.800000011920929);
+	opacity:1;
+	width: 720px;
+    height: 190px;
+    position: absolute;
+    left: 640px;
+    top: 65px;
+}
+#caption { 
+	color:rgba(65.0000037252903, 13.000000175088644, 25.000000409781933, 0.800000011920929);
+	opacity:1;
+	width:709px;
+	height:171px;
+	position:absolute;
+	left:659px;
+	top:74px;
+	font-family:Federo;
+	text-align:left;
+	font-size:36px;
+	letter-spacing:0;
+	line-height:undefined;
+}
+
+#e40_0 { 
+	position:relative;
+	opacity:1;
+	width:170px;
+	height:120px;
+}
+#box3 { 
+	background-color:rgba(238.00000101327896, 193.00000369548798, 120.00000044703484, 0.800000011920929);
+	opacity:1;
+	width: 170px;
+    height: 120px;
+    position: absolute;
+    left: 1200px;
+    top: -215px;
+}
+#next { 
+	color:rgba(211.43749594688416, 63.796798288822174, 55.50234496593475, 1);
+	opacity:1;
+	width: 107px;
+    height: 75px;
+    position: absolute;
+    left: 1231px;
+    top: -200px;
+    font-family: Federo;
+    text-align: left;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: undefined;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#e41_0 { 
+	position:relative;
+	opacity:1;
+	width:170px;
+	height:120px;
+}
+#e41_1 { 
+	background-color:rgba(238.00000101327896, 193.00000369548798, 120.00000044703484, 0.800000011920929);
+	opacity:1;
+    width: 170px;
+    height: 120px;
+    position: absolute;
+    left: 1001px;
+    top: -333px;
+}
+#back { 
+	color:rgba(211.43749594688416, 63.796798288822174, 55.50234496593475, 1);
+	opacity:1;
+    width: 125px;
+    height: 75px;
+    position: absolute;
+    left: 1023px;
+    top: -317px;
+    font-family: Federo;
+    text-align: left;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: undefined;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+
